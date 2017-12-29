@@ -1,0 +1,12 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.btn a{
+	text-decoration: none;
+}
+.footer{
+	margin-top: 20px;
+	height: 50px;
+	text-align: center;
+}

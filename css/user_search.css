@@ -1,0 +1,17 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.btn a{
+	text-decoration: none;
+}
+.form-horizontal{
+	border: 1px solid #DDDDDD;
+	border-radius: 5px;
+	padding:10px;
+}
+.footer{
+	margin-top: 20px;
+	height: 50px;
+	text-align: center;
+}

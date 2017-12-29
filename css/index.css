@@ -1,0 +1,74 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/*导航栏*/
+.collapse ul li:hover{
+	background-color: #E7E7E7;
+}
+.navbar-right ul li {
+
+}
+.navbar-right a:hover{
+	display: block;
+}
+/*警告栏*/
+.Class1{
+	background: red;
+	color: #FFF;
+}
+/*内容栏*/
+.panel{
+	padding: 0px;
+	/*margin-right: 40px;*/
+}
+.TB1 tr:hover{
+	background-color: #E7E7E7;
+}
+.TB2 tr{
+	color: #337AB7;
+}
+.TB2 tr:hover{
+	color: black;
+}
+.panel img{
+	width: 100%;
+}
+.WZ{
+	border-radius: 10px;
+	padding: 10px;
+	background:#F5F5F5 ;
+	margin-bottom: 20px;
+}
+.ZW{
+	border-radius: 10px;
+	padding: 10px;
+	background:#F5F5F5 ;
+	margin-bottom: 20px;
+}
+.JS h4,.JS p{
+	float: right;
+}
+.JS img{
+	padding-top: 20px;
+	float: right;
+}
+.ZW .col-lg-3 img{
+	width: 50%;
+	float: left;
+}
+.col-lg-12 img{
+	width:50%;
+	float: right;
+}
+.col-lg-4 textarea,.col-lg-4 button{
+	margin:10px auto ;
+}
+.TB3 {
+	border: 1px solid #DDDDDD;
+}
+.footer{
+	margin-top: 20px;
+	height: 50px;
+	text-align: center;
+}
